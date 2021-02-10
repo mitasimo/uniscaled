@@ -1,2 +1,2 @@
 # uniscaled
-rest service for electronic scale device 
+REST service for electronic scale device 
